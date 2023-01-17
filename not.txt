@@ -1,0 +1,4 @@
+Rasa community forum
+https://forum.rasa.com/t/can-rasa-load-a-normal-text-file-and-construct-its-training-data-itself/21076
+
+It is not possible to build the chatbot using Rasa directly importing a text file containing data.
